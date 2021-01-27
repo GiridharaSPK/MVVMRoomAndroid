@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomMVVM</string>
+    <string name="subscribers_email">Subscribers email</string>
+    <string name="subscribers_name">Subscribers name</string>
+</resources>
